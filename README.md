@@ -1,3 +1,5 @@
+[![Psyseal: your AI agent, always in top shape. An ECG trace goes from tall red spikes to a calm green line.](assets/psyseal-banner.png)](https://psyseal.com)
+
 ## Psyseal
 
 **Your AI agent, always in top shape.** Psyseal checks, cleans up and seals AI agents: OpenClaw, Hermes Agent, nanobot, PicoClaw, ZeroClaw, NanoClaw and any agent folder.
